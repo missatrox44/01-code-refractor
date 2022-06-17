@@ -7,7 +7,7 @@ https://missatrox44.github.io/01-code-refractor/
 
 ---
 
-### The webpage meets the following accessibility standards:
+## The webpage meets the following accessibility standards:
 
 * Source code has semantic HTML elements
 * The elements follow a logical structure independent of styling and positioning
@@ -16,10 +16,16 @@ https://missatrox44.github.io/01-code-refractor/
 * Title elements have concise, descriptive title
 ---
 ## Collaborators
-Initial code review by fellow UT Bootcamp peers including: Chelsea Sexton, Brian Lalli, Adam Wagh, & Angel Meza.
+Code review by fellow UT Bootcamp peers including: <br>
+[Chelsea Sexton](https://github.com/chelsea314)<br>
+[Brian Lalli](https://github.com/BrianLalli)<br>
+ Adam Wagh<br>
+ Angel Meza <br>
+ [Andrew Edwards](https://github.com/Andrew87E) <br>
+ Jeffrey Littleton
 
 ---
-
+## Site Preview 
 ![Horiseon Screenshot](./assets/images/horiseon-screenshot.png)
 
 ---
