@@ -1,9 +1,9 @@
-# 01-code-refractor
+Code Refactor
 **First Bootcamp Challenge**
 
 
 ## Deployed Website
-https://missatrox44.github.io/01-code-refractor/
+https://missatrox44.github.io/code-refactor/
 
 ---
 
