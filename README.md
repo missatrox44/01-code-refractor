@@ -29,5 +29,5 @@ Code review by fellow UT Bootcamp peers including: <br>
  [Jeffrey Littleton](https://github.com/littletonjeffrey)
 
 ## Questions
-Github username: [missatrox44](https://github.com/missatrox44) 
+Github username: [missatrox44](https://github.com/missatrox44) <br>
 Email: missatrox44@gmail.com
